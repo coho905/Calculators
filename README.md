@@ -5,7 +5,7 @@ Descriptions:
 
 Calculus Calculator:  Polynomial and Trig Integral and Derivative Calculator
 
-Voting Age Calculator:
+Voting Age Calculator:  Calculates if or when a person can vote.
 
 Car Registration Calculator:  Determines the registration cost based on weight of vehicle
 
